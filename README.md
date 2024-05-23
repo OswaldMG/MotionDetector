@@ -5,6 +5,6 @@ This project was carried out with the purpose of testing the functionalities of 
 1. First, you have to had been downloaded Visual Studio and OpenCV
    1.1 Visual Studio needs to have the c++ language installed
    1.2 OpenCV needs to be configured in c++, you can use the next tutorial (https://gist.github.com/demid5111/6faa590e4fc5813550dd95cc1c538893)
-3. After that
+3. When you have installed them, download the zip archive of this repository 
 4. 
 ## [Acknowledgments]
