@@ -1,6 +1,6 @@
 # MoveDetector
 ## [Introduction]
-This project was carried out with the purpose of testing the functionalities of the OpenCV library in c/c++. This so that we could use a computer webcam as a motion sensor, to make the project more interesting the team decided to add a video game in which this motion detector functionality would be implemented, and what a more ideal game would be than "Just-Dance", one where to play you must move so that the device captures your movements. This would be our goal, to emulate "Just-Dance" to make it work without the need of a game console itself.
+This project was carried out with the purpose of testing the functionalities of the OpenCV library in <code>c/c++</code>. This so that we could use a computer webcam as a motion sensor, to make the project more interesting the team decided to add a video game in which this motion detector functionality would be implemented, and what a more ideal game would be than "Just-Dance", one where to play you must move so that the device captures your movements. This would be our goal, to emulate <code>"Just-Dance"</code> to make it work without the need of a game console itself.
 
 ## [How to use it]
 1. First, you have to had been downloaded Visual Studio and OpenCV
@@ -36,12 +36,14 @@ To name the few more available libraries that can be included with the following
 
 3. When you have installed them, download the zip archive of this repository
 4. Afther that you have to also download dolphin emulator and the room of the game "Just-Dance",for legal reasons this guide not have a link to that, but is not too difficult find one.
-5. Configure dolphin to play "Just-Dance"
-6. With the archive uncompressed, open de program main.cpp in the archive <code>HelloOpenCV\HelloOpenCV</code> in the place where you have uncompressed the zip
+5. Configure dolphin to play "Just-Dance", specifically the controller because it must be controlled by the mouse of your computer or you could not note everything.
+6. After to start, you must have wearing red gloves, not matter the material only have to be red or too similar of this color, that's for the program would detect your movements correctly.
+7. With the archive uncompressed, open de program main.cpp in the archive <code>HelloOpenCV\HelloOpenCV</code> in the place where you have uncompressed the zip
 
 ## [Function]
-After all you should have open "Just-Dance" with dolphin.
-When you open the program and plush run, immediately begins to detect your movements 
+After all you should have open "Just-Dance" with dolphin and had red gloves on, you need the last one because it allows the program detect you.
+When you open the program and plush run, immediately begins to detect your movements.
+When it happens you would become in the controller, but you are going to have the limit that you can use the detection out of the emulator.
 
 ## [Specifications]
 If you want the best experience with the program, you should be have the next components.
