@@ -36,9 +36,10 @@ To name the few more available libraries that can be included with the following
 
 3. When you have installed them, download the zip archive of this repository
 4. Afther that you have to also download dolphin emulator and the room of the game "Just-Dance",for legal reasons this guide not have a link to that, but is not too difficult find one.
-5. Configure dolphin to play "Just-Dance", specifically the controller because it must be controlled by the mouse of your computer or you could not note everything.
+5. Configure dolphin to play "Just-Dance", specifically the controller because it must be controlled by the mouse of your computer or you could not note everything, the next video is hardly recommended watching to understand better how to configure dolphin (https://youtu.be/yFVxnwzf2d4?si=Kwjms_eyl5SB6Yls).
 6. After to start, you must have wearing red gloves, not matter the material only have to be red or too similar of this color, that's for the program would detect your movements correctly.
-7. With the archive uncompressed, open de program main.cpp in the archive <code>HelloOpenCV\HelloOpenCV</code> in the place where you have uncompressed the zip
+7. With the archive uncompressed, open de program main.cpp in the archive <code>HelloOpenCV\HelloOpenCV</code> in the place where you have uncompressed the zip.
+8. Run the program and finally you would play "Just-Dance" in pc with Visual Studio and Dolphin.
 
 ## [Function]
 After all you should have open "Just-Dance" with dolphin and had red gloves on, you need the last one because it allows the program detect you.
