@@ -45,7 +45,7 @@ When you open the program and plush run, immediately begins to detect your movem
 
 ## [Specifications]
 If you want the best experience with the program, you should be have the next components:
-*From 12 to 16 or more of DDR4 type ram memory .
-*At least 256gb of storage in the computer.
-*A camera, not matter if is integrated (preferent) or external.
-*An Intel core i5 or Amd Rayzen 5 to up.
+-From 12 to 16 or more of DDR4 type ram memory.
+-At least 256gb of storage in the computer.
+-A camera, not matter if is integrated (preferent) or external.
+-An Intel core i5 or Amd Rayzen 5 to up.
