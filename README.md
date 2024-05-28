@@ -4,15 +4,15 @@ This project was carried out with the purpose of testing the functionalities of 
 
 ## [How to use it]
 1. First, you have to had been downloaded Visual Studio and OpenCV
-   _ Visual Studio needs to have the c++ language installed
-   _ OpenCV needs to be configured in c++, you can use the next tutorial like a guide (https://gist.github.com/demid5111/6faa590e4fc5813550dd95cc1c538893).
+   - Visual Studio needs to have the c++ language installed
+   - OpenCV needs to be configured in c++, you can use the next tutorial like a guide (https://gist.github.com/demid5111/6faa590e4fc5813550dd95cc1c538893).
    The next its a little explanation about how to configure the program to recognize the libraries of OpenCV.
-      _ First of all, open the Project->HelloOpenCV.vcxproj and search Properties and go to VC++ Directories.
-      _ Next, change the Include Directories to contain corresponding include folder in the opencv installation.
-      _ Insert it to the beginning of the value: C:\opencv\opencv\build\include;
-      _ After, change the Library directories to include C:\opencv\opencv\build\x64\vc15\lib
-      _ Change the Linker->Input->Additional dependencies to include opencv_world451d.lib if we are talking about pre-configured package installation Include opencv_core451d.lib;opencv_highgui451d.lib;opencv_videoio451d.lib;opencv_imgcodecs451d.lib; if we are talking about building from sources.
-      _ Apply and close the window
+      - First of all, open the Project->HelloOpenCV.vcxproj and search Properties and go to VC++ Directories.
+      - Next, change the Include Directories to contain corresponding include folder in the opencv installation.
+      - Insert it to the beginning of the value: C:\opencv\opencv\build\include;
+      - After, change the Library directories to include C:\opencv\opencv\build\x64\vc15\lib
+      - Change the Linker->Input->Additional dependencies to include opencv_world451d.lib if we are talking about pre-configured package installation Include opencv_core451d.lib;opencv_highgui451d.lib;opencv_videoio451d.lib;opencv_imgcodecs451d.lib; if we are talking about building from sources.
+      - Apply and close the window
 To name the few more available libraries that can be included with the following linker flags (for Windows remove -l and add 451d.lib to the end if the version of opencv is 4.5.1:
 
 <code>-lopencv_gapi -lopencv_stitching -lopencv_alphamat \
@@ -45,7 +45,7 @@ When you open the program and plush run, immediately begins to detect your movem
 
 ## [Specifications]
 If you want the best experience with the program, you should be have the next components:
-`rgb(9, 105, 218)`From 12 to 16 or more of DDR4 type ram memory .
-`rgb(9, 105, 218)`At least 256gb of storage in the computer.
-`rgb(9, 105, 218)`A camera, not matter if is integrated (preferent) or external.
-`rgb(9, 105, 218)`An Intel core i5 or Amd Rayzen 5 to up.
+*From 12 to 16 or more of DDR4 type ram memory .
+*At least 256gb of storage in the computer.
+*A camera, not matter if is integrated (preferent) or external.
+*An Intel core i5 or Amd Rayzen 5 to up.
