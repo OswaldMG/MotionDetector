@@ -52,3 +52,6 @@ If you want the best experience with the program, you should be have the next co
 - At least 256gb of storage in the computer.
 - A camera, not matter if is integrated (preferent) or external.
 - An Intel core i5 or Amd Rayzen 5 to up.
+
+##Preview video 
+Click here <code>https://www.youtube.com/watch?v=SVT9VlgqNZ4</code>
